@@ -1,0 +1,10 @@
+raw_images/
+dataset/
+*.npz
+*.safetensors
+*.txt
+!scripts/*.txt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
