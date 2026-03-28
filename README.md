@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.svg" alt="lora-forge — sovereign LoRA factory" width="100%"/>
+</p>
+
 # lora-forge
 
 **The complete sovereign LoRA pipeline. From a sentence describing what you want, to a trained SDXL LoRA generating images — on your own GPU, with zero cloud APIs.**
