@@ -8,3 +8,7 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+.env
+*.key
+*.pem
+anthropic_key*
